@@ -9,17 +9,17 @@
 				
 					<div class="col-sm-6 scrollimation fade-right d1">
 					
-						<img class="img-responsive polaroid" src="assets/images/about.jpg" alt="" />
+						<img class="img-responsive polaroid" src="images/photos/charu1.jpg" alt="" />
 					
 					</div>
 					
 					<div class="col-sm-6 scrollimation fade-left d3">
 					
-						<h1 class="big-text">I am <br/>Jane Doe </h1>
+						<h1 class="big-text">I am <br/>Charu Shridhar</h1>
 						
-						<p class="lead">I am Jane Doe, a twenty five year old designer from NY. I have graduated with a Bachelor degree of Graphic &amp; Web Design, from the University of Pasadena.</p>
+						<p class="lead">A designer from Atlanta. I have graduated with a Graphic Design Professional Certificate, from the Sessions College for Professional Design.</p>
 					
-						<p>I am passionate about combining function, interaction and form to design for fitting user experiences that make people happy. I have a passion for creating challenging, intuitive and beautiful products. My design process is very hands-on and visual.</p>
+						<p>I am passionate about developing the idea for the design first and then I focus on converting the idea into beautiful designs that make people happy. My design process is very hands-on and visual.</p>
 					
 					</div>
 				

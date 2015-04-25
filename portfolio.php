@@ -19,6 +19,9 @@
 						<li class="scrollimation fade-left d1">
 							<a href="#" data-filter=".gd">Graphic Design</a>
 						</li>						
+						<li class="scrollimation fade-left d1">
+							<a href="#" data-filter=".dc">Design &amp; Composition</a>
+						</li>						
 						<li class="scrollimation fade-right d1">
 							<a href="#" data-filter=".photoshop">Photoshop</a>
 						</li>
@@ -57,6 +60,7 @@
 				<div id="projects-container">
 				
 					<?php include "projects/gd.php" ?>
+					<?php include "projects/dc.php" ?>
 					<?php include "projects/photoshop.php" ?>
 					<?php include "projects/illustrator.php" ?>
 					<?php include "projects/in-design.php" ?>

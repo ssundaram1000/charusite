@@ -1,2 +1,2 @@
 # charusite
-Charu Protfolio Site
+Charu Portfolio Site

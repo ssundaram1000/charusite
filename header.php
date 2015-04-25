@@ -3,7 +3,7 @@
 		=============================================== -->
 		<header id="home">
 		
-			<div class="container text-center">
+<!-- 			<div class="container text-center">
 			
 				<p>Welcome to</p>
 				
@@ -11,6 +11,6 @@
 				
 				<p>The best choice for your online personal portfolio</p>
 			
-			</div>
+			</div> -->
 			
 		</header><!--End header -->

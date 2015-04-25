@@ -20,12 +20,15 @@
 						<li class="sr-only">
 							<a href="#home" class="scrollto">Home</a>
 						</li>
-						<li>
+<!-- 						<li>
 							<a href="#services" class="scrollto">What I Do</a>
-						</li>
+						</li> -->
 						<li>
 							<a href="#about" class="scrollto">About Me</a>
 						</li>
+						<li>
+							<a href="#skills" class="scrollto">Skills</a>
+						</li>						
 						<li>
 							<a href="#portfolio" class="scrollto">My Works</a>
 						</li>

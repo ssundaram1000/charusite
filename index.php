@@ -50,15 +50,15 @@
 	
 		<?php include "main_nav.php" ?>
 		<?php include "header.php" ?>
-		<?php include "services.php" ?>
+		<?php //include "services.php" ?>
 		<?php include "about.php" ?>
 		<?php include "skills.php" ?>
 		<?php include "portfolio.php" ?>
 			
 		<?php //include "twitter.php" ?>
-		<?php include "contact.php" ?>
+		<?php include "contactform.php" ?>
 		<?php //include "map.php" ?>
-		<?php include "footer.php" ?>
+		<?php //include "footer.php" ?>
 
 		
 		<!-- ==============================================
