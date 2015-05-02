@@ -1,0 +1,64 @@
+Summary
+Compose an attractive, colorful advertisement for the side of a bus that is relevant to the product and
+ audience chosen.
+
+Requirement
+Design a advertisement that wraps an ad around an entire city bus with specific focus on typography.
+In this moving medium, you'll need to think about the readability of your text and its ability to make a product seem exciting.
+Use Illustrator's various type tools to set the ad copy.
+Employ a clipping mask to constrain the ad design to the exact bus shape.
+
+Techniques
+A mobile ad should be as it's visually compelling and all of the elements, be they text or visuals, are easy to make out. 
+I have attempted to make good use of the available space with something to see from front to back. I goal was to not only get the ad noticed but make it stand out from the typical visual distractions of an urban environment.  
+
+Text is styled and sized so it's easy to read. Plus, there's not a lot of text which is good for an ad that's on the move. 
+
+
+
+Techniques Used
+
+As with all design projects, this project calls to work within specific design constraints, especially when it comes to text. 
+Used the "Vitalize energy drink" theme for the  bus wrap. Since its a moving medium, readability of the text and its ability to make it seem exciting, was important.
+So used minimum text effects - used the Stair-step effect on the Text path for Vitalize. 
+Used the G as an outline txt to create a logo for the Energy drink.
+Used large graphics to show a famous fitness coach, along a healthy energy drink that will revitalize and refresh after a tough workout. 
+Used the Clipping mask template to show the exact bus shape and remove all extras from the picture.
+
+------------------------------------
+
+ Design a bus advertisement with specific focus on typography.
+ Use Illustrator's various type tools to set the ad copy.
+ Employ a clipping mask to constrain the ad design to the exact bus shape.
+
+As with all design projects, this project calls you to work within specific design constraints, especially when it comes to text. 
+In this exercise, you'll create an advertisement that wraps an ad around an entire city bus. In this moving medium, you'll need to think about the readability of your text and its ability to make a product seem exciting.
+
+Name: "Vitalize" Energy Drink
+Slogan: "Revitalizes and refreshes."
+ 
+	 	
+	
+ 	
+What makes an effective ad on the move? Here are some guidelines:
+
+	 		
+Graphics are related to and focused on the product.
+
+Contrast of text and graphics is strong so everything is clear to see and read.
+
+The ad makes good use of the available space. You've got the whole side of a bus to showcase your ad so make the most of it.
+
+There is a limited amount of well-styled, decently sized, legible text. Don't use too many fonts (three is a good maximum). Keep your message focused by communicating in as few words as possible.
+
+ 
+teacher Comments
+This is a good example of what a mobile ad should be as it's visually compelling and all of the elements, be they text or visuals, are easy to make out. 
+You've made good use of the available space with something to see from front to back. Not only would this ad get noticed but it would be able to stand out from the typical visual distractions of an urban environment.  
+
+Text is styled and sized well so it's easy to read. Plus, there's not a lot of text which is good for an ad that's on the move. 
+
+Looks as though you had no issues with the clipping mask and I hope you see the value in using them here as well as in future projects. 
+
+my comments
+Used the "Vitalize energy drink" theme for the  bus wrap. Wanted to use the Barbells as the wheels of the bus, but did not how to, as the bus frame had to be the top layer.  Used the  Stair-step effect on the Text path for Vitalize. used the G as an outline txt to create a logo for the Energy drink.

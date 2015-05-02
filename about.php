@@ -19,7 +19,7 @@
 						
 						<p class="lead">A designer from Atlanta. I have graduated with a Graphic Design Professional Certificate, from the Sessions College for Professional Design.</p>
 					
-						<p>I am passionate about developing the idea for the design first and then I focus on converting the idea into beautiful designs that make people happy. My design process is very hands-on and visual.</p>
+						<p>Every design I create, needs to have a consistent theme / idea and only then  do I focus on converting them into beautiful designs that make people happy. My design process is very hands-on and visual.</p>
 					
 					</div>
 				

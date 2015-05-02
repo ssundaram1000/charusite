@@ -10,7 +10,7 @@
 						
 						<!--==== Project Preview HTML ====-->
 						
-						<div class="sr-only project-description" data-images="images/dc/My_mozart_vertical.jpg" >
+						<div class="sr-only project-description" data-images="images/dc/my_mozart_vertical.jpg,images/dc/my_mozart_horizontal.jpg" >
 						
 							<h2>Requirement</h2>
 							<p>
