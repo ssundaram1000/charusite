@@ -66,17 +66,17 @@
 						
 					</article><!--End Project Item - Ode to the Piano -->	
 
-					<article class="project-item dc">
+<!-- 					<article class="project-item dc">
 						
 						<img class="img-responsive project-image" src="images/dc/tn/unity2_tn.jpg"
-						 alt=""><!--Project thumb -->
+						 alt="">
 						
 						<div class="hover-mask">
-							<h2 class="project-title">Unifying the Design</h2><!--Project Title -->
-							<p>Design &amp; Composition</p><!--Project Subtitle -->
+							<h2 class="project-title">Unifying the Design</h2>
+							<p>Design &amp; Composition</p>
 						</div>
 						
-						<!--==== Project Preview HTML ====-->
+
 						
 						<div class="sr-only project-description" data-images="images/dc/unity-01.jpg,images/dc/balance-01.jpg,images/dc/rhythm-01.jpg,images/dc/proportion-01.jpg" >
 						
@@ -97,7 +97,8 @@
 
 						</div>
 						
-					</article><!--End Project Item - Balance Rythm and more -->						
+					</article> -->
+					<!--End Project Item - Balance Rythm and more -->						
 						
 
 													
