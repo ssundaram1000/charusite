@@ -112,6 +112,116 @@
 						
 					</article><!--End Project Item - Mozart -->	
 
+
+<!-- START -->
+
+					<article class="project-item gd">
+						
+						<img class="img-responsive project-image" src="images/gd/tn/backstage_pass_tn.jpg"
+						 alt=""><!--Project thumb -->
+						
+						<div class="hover-mask">
+							<h2 class="project-title">Backstage Pass for a Music Event</h2><!--Project Title -->
+							<p>Graphic Design</p><!--Project Subtitle -->
+						</div>
+						
+						<!--==== Project Preview HTML ====-->
+						
+						<div class="sr-only project-description" data-images="images/gd/backstage_pass.jpg" >
+						
+							<h2>Requirement</h2>
+							<p>
+								Design a creative, attractive backstage pass for a music event that reflects effective digital imaging, good visual design, appropriate typography, and research of the theme.
+							</p>
+					
+							<h2>TECHNIQUES USED</h2>
+							<p>
+								Used multiple vector drawing tools (Shape tools and the Pen tool) to create the pass background area and special ornamentation for the design. Used the Pen tool to cleanly and precisely select and extract part of a photo for use in the pass design.
+ 								
+							</p>
+							<h2>STORY</h2>
+							<p>
+								 For my Backstage pass, I choose a past event -  Beyonce’s “I AM World Tour” picked London as the performing city. Added symmetry to the vest images by choosing an image which will pull them together, the dotted concert image. Added a location image to the world tour by bringing in the Big Ben image.  Included Beyonce's image to showcase the artist. Used a black and white image of Tower bridge to add a little contrast in the vest. Feathered the path to make it sharp, as that is the main focus of the pass. I enjoyed creating paths with the Pen tool. 
+							</p>
+
+						</div>
+						
+					</article><!--End Project Item - Backstage Pass-->	
+
+
+					<article class="project-item gd">
+						
+						<img class="img-responsive project-image" src="images/gd/tn/magazine_ad_tn.jpg"
+						 alt=""><!--Project thumb -->
+						
+						<div class="hover-mask">
+							<h2 class="project-title">Magazine Ad</h2><!--Project Title -->
+							<p>Graphic Design</p><!--Project Subtitle -->
+						</div>
+						
+						<!--==== Project Preview HTML ====-->
+						
+						<div class="sr-only project-description" data-images="images/gd/magazine_ad.jpg" >
+						
+							<h2>Requirement</h2>
+							Design a full-page magazine advertisement for a concert event, demonstrating effective, creative design techniques and research of the theme.
+							
+							<h2>Story</h2>
+							<p>
+								Selected Smooth Jazz in NY, with 2015 Jazz Masters. Added a logo of National Endowment of Arts (NEA) as they were celebrating 50 years.
+							</p>
+							<p>
+								Placement of the NYC image within the figures is a way to get a strong recognition of the location. Unified the figures using good choice of colors and smart filters. Created a hierarchy of objects on the design using object and font sizes. The flags accent and compliment the main feature rather than taking away from it and placed them in the corner. 
+							</p>
+							<p>
+								I got the idea from the NEA logo to create a smart linked object, drew a triangle and mainly, found a fun way to recreate the sponsor’s logo on the celebration banner. Used a textured blue triangle in the middle to pull them together. The dark purple background is a good contrast and in my opinion represents Jazz.
+							</p>
+
+						</div>
+						
+					</article><!--End Project Item - Magazine Ad -->	
+
+					<article class="project-item gd">
+						
+						<img class="img-responsive project-image" src="images/gd/tn/bookcover_tn.jpg"
+						 alt=""><!--Project thumb -->
+						
+						<div class="hover-mask">
+							<h2 class="project-title">Book Cover</h2><!--Project Title -->
+							<p>Graphic Design</p><!--Project Subtitle -->
+						</div>
+						
+						<!--==== Project Preview HTML ====-->
+						
+						<div class="sr-only project-description" data-images="images/gd/bookcover.jpg" >
+						
+							<h2>Requirement</h2>
+							Design a creative type-based logo design for a musician that captures the musical style of the artist.
+							<br/>
+							Incorporate the logo and other required text elements in a book cover design (front, back, spine) that demonstrates professional-level attention to typography including (but not limited to) font selection, space, kerning, leading, and tracking.
+
+
+							<h2>Logo / Branding</h2>
+							<p>
+								Creative manipulation of the type to create a really identifiable logo. For the logo I used Prohibition Regular font and used the convert to shape tool to modify the I into a shape of a guitar, making it look like a performer and also made the letter R, look like a guitar end. Adding the metallic background gave it the heavy metal aspect i wanted to bring out in the rock band.
+							</p>
+
+							<h2>Story</h2>
+							<p>
+								For this project to create an identity and book cover, I choose a rock band - Foo Fighters. A rock band which melds melodic elements with heavier ones. In order to redesign their logo, i choose to show their heavy metal aspect by replacing their modern script  logo and making it a heavy metallic looking one.
+							</p>
+							<p>
+								Also, in my research saw this title Learning to Fly as one of the best biographies of the band, so redesigned with a new logo and design. Continued the use of industrial fonts ( Industry Stencil for the subtitles and the authors name) to re-emphasize  the metal.
+							</p>
+
+
+						</div>
+						
+					</article><!--End Project Item - Bookcover -->	
+
+
+
+<!-- END -->
 					
 					<article class="project-item gd">
 						
@@ -295,31 +405,38 @@
 
 					<article class="project-item gd">
 						
-						<img class="img-responsive project-image" src="images/illustrator/tn/vehicle_wrap_tn.png"
+						<img class="img-responsive project-image" src="images/gd/tn/cd_cover_tn.jpg"
 						 alt=""><!--Project thumb -->
 						
 						<div class="hover-mask">
-							<h2 class="project-title">Vehicle Wrap</h2><!--Project Title -->
-							<p>Illustrator</p><!--Project Subtitle -->
+							<h2 class="project-title">CD Cover</h2><!--Project Title -->
+							<p>Advanced Photoshop</p><!--Project Subtitle -->
 						</div>
 						
 						<!--==== Project Preview HTML ====-->
 						
-						<div class="sr-only project-description" data-images="images/illustrator/vehicle_wrap.png" >
+						<div class="sr-only project-description" data-images="images/gd/cd_cover.jpg" >
 						
 							<h2>Requirement</h2>
-								<p>Design a advertisement that wraps an ad around an entire city bus with specific focus on typography. In this moving medium, you'll need to think about the readability of your text and its ability to make a product seem exciting. Use Illustrator's various type tools to set the ad copy. Employ a clipping mask to constrain the ad design to the exact bus shape.
+								<p>
+									Design an effective three-panel CD insert that reflects understanding of color theory, typography, and layout. Utilize Kuler for selection of colors and display your colors in a screenshot.
+								</p>
+								<p>
+									Colorize a grayscale image and effectively incorporate the image in a larger design. Use custom Photoshop brushes (and the Mixer Brush) to embellish a photograph and to add decorative elements for an overall professional, creative appearance.
 								</p>
 
-							<h2>Techniques Used</h2>
+							<h2>Story</h2>
 							<p>
-								A mobile ad should be visually compelling and all of the text and visual elements, should be easy to make out. 
+								I recreated Ariana Grande's album "Yours Truly" with a colorful background, started by picking a background image of the Eiffel Tower  and creating a logo with her initials and used a image of a heart tattoo on all 3 panels to show they were from the same album and  added some sparkles and swirly paint brushes ver all 3 panels to add some embellishments. 
 							</p>
 							<p>	
-								I have attempted to make good use of the available space with something to see from front to back. I goal was to not only get the ad noticed but make it stand out from the typical visual distractions of an urban environment.
+								CD Front - Used a image of the Eiffel Tower as the background image and  used the Mixer Brush to create wet oil paint effect to the image. After i go the desired effect, inserted a cut out of the artist, Ariana Grande. I put that image in the behind the paint layer to show the background color through her image, similar to the example in the exercise.
 							</p>
 							<p>
-								Text is styled and sized so it's easy to read. Plus, there's not a lot of text which is good for an ad that's on the move.
+								CD Middle - Used the painted Eiffel tower image as the base and added stars with the stars brush and colored 2 images and layered them. To color this, first I used the Eiffel tower image to create a theme of my project, called it Eiffel Tower Paris France. Used the colors to bring out the details in both the images of Ariana's profile and the heart shaped tattoo on a persons arm.
+							</p>
+							<p>
+								CD Back - Used the painted Eiffel tower image as the base and added a colored background and added the text of the list of songs and other details.
 							</p>
 						</div>
 						
