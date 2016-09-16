@@ -1,5 +1,5 @@
  
-
+<!-- ROW 1 -->
 					<article class="project-item gd">
 						
 						<img class="img-responsive project-image" src="images/gd/tn/olivio_label_tn.jpg"
@@ -89,7 +89,7 @@
 						
 						<!--==== Project Preview HTML ====-->
 						
-						<div class="sr-only project-description" data-images="images/dc/my_mozart_vertical.jpg,images/dc/my_mozart_horizontal.jpg" >
+						<div class="sr-only project-description" data-images="images/dc/my_mozart_vertical.jpg,images/dc/my_mozart_horizontal.png" >
 						
 							<h2>Requirement</h2>
 							<p>
@@ -113,7 +113,7 @@
 					</article><!--End Project Item - Mozart -->	
 
 
-<!-- START -->
+<!-- ROW 2 -->
 
 					<article class="project-item gd">
 						
@@ -221,42 +221,47 @@
 
 
 
-<!-- END -->
-					
+<!-- ROW 3 -->
+
 					<article class="project-item gd">
 						
-						<img class="img-responsive project-image" src="images/gd/tn/bookcover_smith_tn.jpg"
+						<img class="img-responsive project-image" src="images/gd/tn/cd_cover_tn.jpg"
 						 alt=""><!--Project thumb -->
 						
 						<div class="hover-mask">
-							<h2 class="project-title">Coffee Table Book Design</h2><!--Project Title -->
-							<p>Graphic Design</p><!--Project Subtitle -->
+							<h2 class="project-title">CD Cover</h2><!--Project Title -->
+							<p>Advanced Photoshop</p><!--Project Subtitle -->
 						</div>
 						
 						<!--==== Project Preview HTML ====-->
 						
-						<div class="sr-only project-description" data-images="images/gd/bookcover_smith.jpg,images/gd/chapter_page_smith.jpg" >
+						<div class="sr-only project-description" data-images="images/gd/cd_cover.jpg" >
 						
 							<h2>Requirement</h2>
-							<ul>
-								<li>Research coffee table books of various genres.</li>
-								<li>Design a book cover that features the work of a modern artist and strong typography.</li>
-								<li>Design a chapter introduction page for the book that includes the artist's name, chapter title, topics, descriptive text, and images.</li>
-								<li>Demonstrate an ability to combine text and images in a way that is both clear and engaging to a reader.</li>
-							</ul>
+								<p>
+									Design an effective three-panel CD insert that reflects understanding of color theory, typography, and layout. Utilize Kuler for selection of colors and display your colors in a screenshot.
+								</p>
+								<p>
+									Colorize a grayscale image and effectively incorporate the image in a larger design. Use custom Photoshop brushes (and the Mixer Brush) to embellish a photograph and to add decorative elements for an overall professional, creative appearance.
+								</p>
 
-							
-							<h2>TECHNIQUES USED</h2>
+							<h2>Story</h2>
 							<p>
-								For the Coffee book, I picked David Smith, a metal Sculptor, his work in featured in MoMA, Ny. The cover image is a suspended cube, which was part of his cube series. I picked a car background with metal inside parts showing, since he attributes his experiences of working in the car body workshop as his creative process.
-								</p><p>
-								The placement and size of the sculpture creates depth. Black background was chosen to accentuate the metal sculpture and car parts while providing ample negative space. The subtle red stroke was added to complement the foreground. The chapter page makes good use of white space, and incorporates visuals and color to tie back to the cover. 
+								I recreated Ariana Grande's album "Yours Truly" with a colorful background, started by picking a background image of the Eiffel Tower  and creating a logo with her initials and used a image of a heart tattoo on all 3 panels to show they were from the same album and  added some sparkles and swirly paint brushes ver all 3 panels to add some embellishments. 
 							</p>
-
+							<p>	
+								CD Front - Used a image of the Eiffel Tower as the background image and  used the Mixer Brush to create wet oil paint effect to the image. After i go the desired effect, inserted a cut out of the artist, Ariana Grande. I put that image in the behind the paint layer to show the background color through her image, similar to the example in the exercise.
+							</p>
+							<p>
+								CD Middle - Used the painted Eiffel tower image as the base and added stars with the stars brush and colored 2 images and layered them. To color this, first I used the Eiffel tower image to create a theme of my project, called it Eiffel Tower Paris France. Used the colors to bring out the details in both the images of Ariana's profile and the heart shaped tattoo on a persons arm.
+							</p>
+							<p>
+								CD Back - Used the painted Eiffel tower image as the base and added a colored background and added the text of the list of songs and other details.
+							</p>
 						</div>
 						
-					</article><!--End Project Item - Book cover -->		
-
+					</article><!--End Project Item - CD Cover - Ariana Grande -->	
+	
 
 					<article class="project-item gd">
 						
@@ -295,7 +300,6 @@
 						
 					</article><!--End Project Item - airline ad -->
 
-
 					<article class="project-item gd">
 						
 						<img class="img-responsive project-image" src="images/photoshop/tn/photo_safari_tn.jpg"
@@ -332,7 +336,7 @@
 						
 					</article><!--End Project Item - photo safari -->						
 
-
+<!-- ROW 4 -->
 					<article class="project-item gd">
 						
 						<img class="img-responsive project-image" src="images/gd/tn/3dbox_tn.jpg"
@@ -402,43 +406,39 @@
 						
 					</article><!--End Project Item - Ode to the Piano -->	
 
-
+					
 					<article class="project-item gd">
 						
-						<img class="img-responsive project-image" src="images/gd/tn/cd_cover_tn.jpg"
+						<img class="img-responsive project-image" src="images/gd/tn/bookcover_smith_tn.jpg"
 						 alt=""><!--Project thumb -->
 						
 						<div class="hover-mask">
-							<h2 class="project-title">CD Cover</h2><!--Project Title -->
-							<p>Advanced Photoshop</p><!--Project Subtitle -->
+							<h2 class="project-title">Coffee Table Book Design</h2><!--Project Title -->
+							<p>Graphic Design</p><!--Project Subtitle -->
 						</div>
 						
 						<!--==== Project Preview HTML ====-->
 						
-						<div class="sr-only project-description" data-images="images/gd/cd_cover.jpg" >
+						<div class="sr-only project-description" data-images="images/gd/bookcover_smith.jpg,images/gd/chapter_page_smith.jpg" >
 						
 							<h2>Requirement</h2>
-								<p>
-									Design an effective three-panel CD insert that reflects understanding of color theory, typography, and layout. Utilize Kuler for selection of colors and display your colors in a screenshot.
-								</p>
-								<p>
-									Colorize a grayscale image and effectively incorporate the image in a larger design. Use custom Photoshop brushes (and the Mixer Brush) to embellish a photograph and to add decorative elements for an overall professional, creative appearance.
-								</p>
+							<ul>
+								<li>Research coffee table books of various genres.</li>
+								<li>Design a book cover that features the work of a modern artist and strong typography.</li>
+								<li>Design a chapter introduction page for the book that includes the artist's name, chapter title, topics, descriptive text, and images.</li>
+								<li>Demonstrate an ability to combine text and images in a way that is both clear and engaging to a reader.</li>
+							</ul>
 
-							<h2>Story</h2>
+							
+							<h2>TECHNIQUES USED</h2>
 							<p>
-								I recreated Ariana Grande's album "Yours Truly" with a colorful background, started by picking a background image of the Eiffel Tower  and creating a logo with her initials and used a image of a heart tattoo on all 3 panels to show they were from the same album and  added some sparkles and swirly paint brushes ver all 3 panels to add some embellishments. 
+								For the Coffee book, I picked David Smith, a metal Sculptor, his work in featured in MoMA, Ny. The cover image is a suspended cube, which was part of his cube series. I picked a car background with metal inside parts showing, since he attributes his experiences of working in the car body workshop as his creative process.
+								</p><p>
+								The placement and size of the sculpture creates depth. Black background was chosen to accentuate the metal sculpture and car parts while providing ample negative space. The subtle red stroke was added to complement the foreground. The chapter page makes good use of white space, and incorporates visuals and color to tie back to the cover. 
 							</p>
-							<p>	
-								CD Front - Used a image of the Eiffel Tower as the background image and  used the Mixer Brush to create wet oil paint effect to the image. After i go the desired effect, inserted a cut out of the artist, Ariana Grande. I put that image in the behind the paint layer to show the background color through her image, similar to the example in the exercise.
-							</p>
-							<p>
-								CD Middle - Used the painted Eiffel tower image as the base and added stars with the stars brush and colored 2 images and layered them. To color this, first I used the Eiffel tower image to create a theme of my project, called it Eiffel Tower Paris France. Used the colors to bring out the details in both the images of Ariana's profile and the heart shaped tattoo on a persons arm.
-							</p>
-							<p>
-								CD Back - Used the painted Eiffel tower image as the base and added a colored background and added the text of the list of songs and other details.
-							</p>
+
 						</div>
 						
-					</article><!--End Project Item - Vehicle Wrap -->		
+					</article><!--End Project Item - Book cover -->	
+	
 													

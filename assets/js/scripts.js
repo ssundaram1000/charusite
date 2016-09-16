@@ -193,6 +193,7 @@ $(document).ready(function() {
 					}
 			});
 			
+			// Shridhar - Change slide behavior here
 			$('#project-slider').flexslider({
 				prevText: '<i class="fa fa-angle-left"></i>',
 				nextText: '<i class="fa fa-angle-right"></i>',
@@ -200,9 +201,9 @@ $(document).ready(function() {
 				slideshowSpeed: 3000,
 				useCSS: true,
 				controlNav: true, 
-				pauseOnAction: false, 
-				pauseOnHover: true,
-				smoothHeight: false,
+				pauseOnAction: true, 
+				pauseOnHover: true, 
+				smoothHeight: false, 
 				start: function(){
 					$(window).trigger('resize');
 					$('#project-preview').animate({'opacity':1},300);

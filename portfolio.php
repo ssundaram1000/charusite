@@ -13,15 +13,21 @@
 				<!--==== Portfolio Filters ====-->
 				<div id="filter-works">
 					<ul>
-						<li class="active scrollimation fade-right d1">
+<!-- 						<li class="active scrollimation fade-right d1">
 							<a href="#" data-filter="*">All</a>
-						</li>
-						<li class="scrollimation fade-left d1">
+						</li> -->
+						<li class="scrollimation fade-left d1 active">
 							<a href="#" data-filter=".gd">Graphic Design</a>
-						</li>										
+						</li>	
 						<li class="scrollimation fade-left d1">
-							<a href="#" data-filter=".in-design">In Design</a>
+							<a href="#" data-filter=".advertising">Advertising Design</a>
+						</li>																
+						<li class="scrollimation fade-left d1">
+							<a href="#" data-filter=".in-design">Print Publication</a>
 						</li>
+<!-- 						<li class="scrollimation fade-left d1">
+							<a href="#" data-filter=".illustrator">Illustrator</a>
+						</li> -->
 <!-- 						<li class="scrollimation fade-left d1">
 							<a href="#" data-filter=".color-theory">Color Theory</a>
 						</li>
@@ -51,7 +57,9 @@
 				<div id="projects-container">
 				
 					<?php include "projects/gd.php" ?>
+					<?php include "projects/advertising.php" ?>
 					<?php include "projects/in-design.php" ?>
+					<?php include "projects/illustrator.php" ?>
 					<?php //include "projects/color-theory.php" ?>
 					<?php //include "projects/typography.php" ?>
 					

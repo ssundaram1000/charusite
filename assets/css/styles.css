@@ -695,7 +695,8 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
 #project-preview{
 	display:none;
     position: relative;
-    max-width: 940px;
+    /* SHRIDHAR */
+    max-width: 1100px;
     margin:50px auto 0;
     font-weight: 400;
 	opacity:0;

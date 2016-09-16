@@ -16,11 +16,12 @@
 					<div class="col-sm-6 scrollimation fade-left d3">
 					
 						<h1 class="big-text">I am <br/>Charu Shridhar</h1>
-						
-						<p class="lead">A designer from Atlanta. I have graduated with a Graphic Design Professional Certificate, from the Sessions College for Professional Design.</p>
-					
-						<p>Every design I create, needs to have a consistent theme / idea and only then  do I focus on converting them into beautiful designs that make people happy. My design process is very hands-on and visual.</p>
-					
+						<p class="lead">A designer from Atlanta. I have graduated with a Graphic Design Program, from the Sessions College for Professional Design.</p>
+
+						<p>
+							My work comprises of projects with emphasis on design thinking in promoting a brand, an event, magazine, product packaging, posters, banner advertising and more.
+						</p>
+
 					</div>
 				
 				</div>
